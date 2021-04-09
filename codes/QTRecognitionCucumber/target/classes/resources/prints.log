@@ -1,0 +1,3 @@
+13:28:40.502 [main] INFO  resources.Base - Pass: Kudos were sent to Users in the Recent Contacts
+14:02:02.114 [main] INFO  resources.Base - Launching Google chrome Driver version 89 for this test
+14:02:04.255 [main] INFO  resources.Base - Application is accessible in https://qtrecognition.testqtwiz.com/

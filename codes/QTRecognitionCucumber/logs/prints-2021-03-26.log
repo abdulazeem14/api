@@ -1,0 +1,5 @@
+13:13:15.914 [main] INFO  resources.Base - User should write citation for Kudos. Sending Kudos without citation are not allowed
+13:13:18.295 [main] INFO  resources.Base - User is able to send kudos after filling Comments field
+13:21:28.176 [main] ERROR resources.Base - Failed:to select Email
+13:24:41.499 [main] INFO  resources.Base - Pass: UserId were selected by entering the E-mail Address
+13:24:42.783 [main] INFO  resources.Base - Pass: UserId were selected by entering the Name of the Employee

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test  name="Module1">
+    <classes>
+
+<!--       <class name="Module1.HomepageCheck"/> -->
+<!--       <class name="Module1.Logincheck"/> -->
+<!--       <class name="Module1.CheckTitle"/> -->
+<!--       <class name="Module1.SessionTest"/> -->
+<class name="Module1.Checkcolor"/>
+    </classes>
+  </test>
+<!--    <test  name="Module2"> -->
+<!--     <classes> -->
+<!--       <class name="Module2.Precondition"/> -->
+     
+<!--       <class name="Module2.Checkusername"/> -->
+     
+<!--     </classes> -->
+<!--   </test> -->
+ <test  name="Module3">
+    <classes>
+  <class name="Module3.SendKudos"/>
+<!-- <class name="Module3.SelectEmailaddress"/> -->
+<class name="Module3.SelectKudosType"/>
+<class name="Module3.SendKudosRecentContacts"/>
+<!-- <class name="Module3.SelectEmailadress"/> -->
+    </classes>
+  </test>
+  
+   <!-- Test -->
+</suite> <!-- Suite -->

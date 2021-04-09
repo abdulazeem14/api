@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test  name="Module1">
+    <classes>
+
+      <class name="Module1.HomepageCheck"/>
+      <class name="Module1.Logincheck"/>
+      <class name="Module1.CheckTitle"/>
+      <class name="Module1.SessionTest"/>
+	<class name="Module1.Checkcolor"/>
+    </classes>
+  </test>
+   <test  name="Module2">
+    <classes>
+      
+     
+      <class name="Module2.Checkusername"/>
+       <class name="Module2.CheckTitle"/>
+      
+     
+    </classes>
+  </test>
+ <test  name="Module3">
+    <classes>
+  <class name="Module3.SendKudos"/>
+<class name="Module3.SelectEmailaddress"/>
+<class name="Module3.SelectKudosType"/>
+<class name="Module3.CitationCheck"/>
+<class name="Module3.ConfirmationMessage"/>
+<class name="Module3.SendKudosRecentContacts"/>
+    </classes>
+  </test>
+  <test  name="Module4">
+    <classes>
+  <class name="Module4.FindKudosSearch"/>
+    </classes>
+  </test>
+  
+  <test  name="Module5">
+    <classes>
+  <class name="Module5.KudosRecentContacts"/>
+    </classes>
+  </test>
+  <test  name="Module6">
+    <classes>
+  <class name="Module6.KudosFrmMe"/>
+<class name="Module6.KudosSent2me"/>
+<class name="Module6.KudosSentToday"/>
+<class name="Module6.Send2us"/>
+
+    </classes>
+  </test>
+  
+  
+  
+   <!-- Test -->
+</suite> <!-- Suite -->

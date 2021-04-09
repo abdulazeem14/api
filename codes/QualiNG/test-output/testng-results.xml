@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-03-19T10:52:01 IST" name="payment industry" finished-at="2021-03-19T10:52:01 IST" duration-ms="119">
+    <groups>
+    </groups>
+    <test started-at="2021-03-19T10:52:01 IST" name="Creditcard" finished-at="2021-03-19T10:52:01 IST" duration-ms="119">
+      <class name="testNG.Clstwo">
+        <test-method is-config="true" signature="WebCreditcard1()[pri:0, instance:testNG.Clstwo@63a65a25]" started-at="2021-03-19T10:52:01 IST" name="WebCreditcard1" finished-at="2021-03-19T10:52:01 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WebCreditcard1 -->
+        <test-method signature="MobiledebitCardMethod1(java.lang.String, java.lang.String)[pri:0, instance:testNG.Clstwo@63a65a25]" started-at="2021-03-19T10:52:01 IST" name="MobiledebitCardMethod1" data-provider="datasource" finished-at="2021-03-19T10:52:01 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[username1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobiledebitCardMethod1 -->
+        <test-method signature="MobiledebitCardMethod1(java.lang.String, java.lang.String)[pri:0, instance:testNG.Clstwo@63a65a25]" started-at="2021-03-19T10:52:01 IST" name="MobiledebitCardMethod1" data-provider="datasource" finished-at="2021-03-19T10:52:01 IST" duration-ms="5" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[username2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobiledebitCardMethod1 -->
+        <test-method signature="MobiledebitCardMethod1(java.lang.String, java.lang.String)[pri:0, instance:testNG.Clstwo@63a65a25]" started-at="2021-03-19T10:52:01 IST" name="MobiledebitCardMethod1" data-provider="datasource" finished-at="2021-03-19T10:52:01 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[username3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobiledebitCardMethod1 -->
+        <test-method signature="WebCreditcard1()[pri:0, instance:testNG.Clstwo@63a65a25]" started-at="2021-03-19T10:52:01 IST" name="WebCreditcard1" finished-at="2021-03-19T10:52:01 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WebCreditcard1 -->
+        <test-method signature="WebCreditcard2()[pri:0, instance:testNG.Clstwo@63a65a25]" started-at="2021-03-19T10:52:01 IST" name="WebCreditcard2" finished-at="2021-03-19T10:52:01 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WebCreditcard2 -->
+      </class> <!-- testNG.Clstwo -->
+      <class name="testNG.Clsthree">
+        <test-method is-config="true" signature="bclass()[pri:0, instance:testNG.Clsthree@6dbb137d]" started-at="2021-03-19T10:52:01 IST" name="bclass" finished-at="2021-03-19T10:52:01 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bclass -->
+        <test-method signature="MobileDebitcard1()[pri:0, instance:testNG.Clsthree@6dbb137d]" started-at="2021-03-19T10:52:01 IST" name="MobileDebitcard1" finished-at="2021-03-19T10:52:01 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileDebitcard1 -->
+        <test-method signature="MobileDebitcard2()[pri:0, instance:testNG.Clsthree@6dbb137d]" started-at="2021-03-19T10:52:01 IST" name="MobileDebitcard2" finished-at="2021-03-19T10:52:01 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileDebitcard2 -->
+      </class> <!-- testNG.Clsthree -->
+      <class name="testNG.Clsone">
+        <test-method signature="ATest(java.lang.String)[pri:0, instance:testNG.Clsone@318ba8c8]" started-at="2021-03-19T10:52:01 IST" name="ATest" finished-at="2021-03-19T10:52:01 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[qualitest.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ATest -->
+        <test-method signature="MobileCreditcard1()[pri:0, instance:testNG.Clsone@318ba8c8]" started-at="2021-03-19T10:52:01 IST" name="MobileCreditcard1" finished-at="2021-03-19T10:52:01 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileCreditcard1 -->
+        <test-method signature="MobileCreditcard2()[pri:0, instance:testNG.Clsone@318ba8c8]" started-at="2021-03-19T10:52:01 IST" name="MobileCreditcard2" finished-at="2021-03-19T10:52:01 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileCreditcard2 -->
+        <test-method is-config="true" signature="MobileCreditcard1()[pri:0, instance:testNG.Clsone@318ba8c8]" started-at="2021-03-19T10:52:01 IST" name="MobileCreditcard1" finished-at="2021-03-19T10:52:01 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileCreditcard1 -->
+      </class> <!-- testNG.Clsone -->
+      <class name="testNG.Clsfour">
+        <test-method signature="WebDebitcard1()[pri:0, instance:testNG.Clsfour@54c562f7]" started-at="2021-03-19T10:52:01 IST" name="WebDebitcard1" finished-at="2021-03-19T10:52:01 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WebDebitcard1 -->
+        <test-method signature="WebDebitcard2()[pri:0, instance:testNG.Clsfour@54c562f7]" started-at="2021-03-19T10:52:01 IST" name="WebDebitcard2" finished-at="2021-03-19T10:52:01 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WebDebitcard2 -->
+      </class> <!-- testNG.Clsfour -->
+    </test> <!-- Creditcard -->
+  </suite> <!-- payment industry -->
+</testng-results>

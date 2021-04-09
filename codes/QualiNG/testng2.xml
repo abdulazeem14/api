@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="payment industry">
+<parameter name="URL" value="qualitest.com"></parameter>
+<parameter name="Username" value="quali"></parameter>
+<listeners>
+<listener class-name="test.listeners2"></listener>
+</listeners>
+
+  <test  name="Creditcard">
+    <packages>
+    <package name="testNG" /></packages>
+      </test> <!-- Test -->
+</suite> <!-- Suite -->

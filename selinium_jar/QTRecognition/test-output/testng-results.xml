@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-03-26T14:01:59 IST" name="Default suite" finished-at="2021-03-26T14:02:04 IST" duration-ms="5374">
+    <groups>
+    </groups>
+    <test started-at="2021-03-26T14:01:59 IST" name="Default test" finished-at="2021-03-26T14:02:04 IST" duration-ms="5374">
+      <class name="Module1.HomepageCheck">
+        <test-method is-config="true" signature="Bsuite()[pri:0, instance:Module1.HomepageCheck@419c5f1a]" started-at="2021-03-26T14:01:58 IST" name="Bsuite" finished-at="2021-03-26T14:01:59 IST" duration-ms="1052" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Bsuite -->
+        <test-method signature="checkhomepage()[pri:0, instance:Module1.HomepageCheck@419c5f1a]" started-at="2021-03-26T14:01:59 IST" name="checkhomepage" finished-at="2021-03-26T14:02:04 IST" duration-ms="4968" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkhomepage -->
+        <test-method is-config="true" signature="aftertestfunction()[pri:0, instance:Module1.HomepageCheck@419c5f1a]" started-at="2021-03-26T14:02:04 IST" name="aftertestfunction" finished-at="2021-03-26T14:02:04 IST" duration-ms="357" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertestfunction -->
+      </class> <!-- Module1.HomepageCheck -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
